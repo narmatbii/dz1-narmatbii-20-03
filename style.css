@@ -1,0 +1,19 @@
+.register {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #a2ff00;
+    height: 600px;
+
+}
+.number {
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+.person-num {
+    margin-bottom: 40px;
+}
+p {
+    color: #4b0f0f;
+}
